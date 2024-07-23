@@ -1,7 +1,12 @@
-## Hello, I'm Val
+<h1>Hi, I'm Val! 
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
 
 <!--
-**Vikoe/Vikoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
